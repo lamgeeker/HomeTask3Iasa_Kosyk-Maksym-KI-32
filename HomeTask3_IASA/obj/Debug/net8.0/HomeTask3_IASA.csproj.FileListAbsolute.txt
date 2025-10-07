@@ -1,0 +1,14 @@
+C:\Users\Dream Machines\Desktop\C# Projects\HomeTask3_IASA\HomeTask3_IASA\bin\Debug\net8.0\HomeTask3_IASA.exe
+C:\Users\Dream Machines\Desktop\C# Projects\HomeTask3_IASA\HomeTask3_IASA\bin\Debug\net8.0\HomeTask3_IASA.deps.json
+C:\Users\Dream Machines\Desktop\C# Projects\HomeTask3_IASA\HomeTask3_IASA\bin\Debug\net8.0\HomeTask3_IASA.runtimeconfig.json
+C:\Users\Dream Machines\Desktop\C# Projects\HomeTask3_IASA\HomeTask3_IASA\bin\Debug\net8.0\HomeTask3_IASA.dll
+C:\Users\Dream Machines\Desktop\C# Projects\HomeTask3_IASA\HomeTask3_IASA\bin\Debug\net8.0\HomeTask3_IASA.pdb
+C:\Users\Dream Machines\Desktop\C# Projects\HomeTask3_IASA\HomeTask3_IASA\obj\Debug\net8.0\HomeTask3_IASA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dream Machines\Desktop\C# Projects\HomeTask3_IASA\HomeTask3_IASA\obj\Debug\net8.0\HomeTask3_IASA.AssemblyInfoInputs.cache
+C:\Users\Dream Machines\Desktop\C# Projects\HomeTask3_IASA\HomeTask3_IASA\obj\Debug\net8.0\HomeTask3_IASA.AssemblyInfo.cs
+C:\Users\Dream Machines\Desktop\C# Projects\HomeTask3_IASA\HomeTask3_IASA\obj\Debug\net8.0\HomeTask3_IASA.csproj.CoreCompileInputs.cache
+C:\Users\Dream Machines\Desktop\C# Projects\HomeTask3_IASA\HomeTask3_IASA\obj\Debug\net8.0\HomeTask3_IASA.dll
+C:\Users\Dream Machines\Desktop\C# Projects\HomeTask3_IASA\HomeTask3_IASA\obj\Debug\net8.0\refint\HomeTask3_IASA.dll
+C:\Users\Dream Machines\Desktop\C# Projects\HomeTask3_IASA\HomeTask3_IASA\obj\Debug\net8.0\HomeTask3_IASA.pdb
+C:\Users\Dream Machines\Desktop\C# Projects\HomeTask3_IASA\HomeTask3_IASA\obj\Debug\net8.0\HomeTask3_IASA.genruntimeconfig.cache
+C:\Users\Dream Machines\Desktop\C# Projects\HomeTask3_IASA\HomeTask3_IASA\obj\Debug\net8.0\ref\HomeTask3_IASA.dll
